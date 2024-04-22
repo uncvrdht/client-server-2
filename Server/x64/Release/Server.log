@@ -1,0 +1,7 @@
+﻿  Server.cpp
+C:\Users\shago\OneDrive\Рабочий стол\ClientServer-master\Server\Server.cpp(163,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 93 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Server.vcxproj -> C:\Users\shago\OneDrive\Рабочий стол\ClientServer-master\x64\Release\Server.exe

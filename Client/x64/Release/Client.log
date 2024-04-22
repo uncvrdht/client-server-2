@@ -1,0 +1,10 @@
+﻿  Client.cpp
+C:\Users\shago\OneDrive\Рабочий стол\ClientServer-master\Client\Client.cpp(38,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\shago\OneDrive\Рабочий стол\ClientServer-master\Client\Client.cpp(132,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\shago\OneDrive\Рабочий стол\ClientServer-master\Client\Client.cpp(162,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  Создание кода
+  6 of 144 functions ( 4.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Client.vcxproj -> C:\Users\shago\OneDrive\Рабочий стол\ClientServer-master\x64\Release\Client.exe

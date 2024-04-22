@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\shago\OneDrive\Рабочий стол\ClientServer-master\Client\Client.cpp(38,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Client.vcxproj -> C:\Users\shago\OneDrive\Рабочий стол\ClientServer-master\x64\Debug\Client.exe
